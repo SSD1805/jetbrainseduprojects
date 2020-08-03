@@ -2,7 +2,7 @@
 
 #  Summary + explanation
 
-Repository comprised of various coding projects Jetbrains EDU has to learn about how to code/program. This one is focused on Python and Django. The list of projects available to practice are listed below.
+Repository comprised of various coding projects Jetbrains EDU has to learn about how to code/program. This one is focused on the projects available for Python and Django. The list of projects available to practice are listed below. Each branch is commited to a separate project I've either completed or am attempting to complete. To locate whatever projects I've completed, click on the master button and select one of the listed branches that appear in the dropdown menu.
 
 Projects
 
